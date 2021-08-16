@@ -1,5 +1,6 @@
 hello git!
 hello git!
 hello git!master test!1
+hello git!hot fixed test!
 hello git!hot fixed!
 recently change
