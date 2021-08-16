@@ -1,5 +1,5 @@
 hello git!
 hello git!
-hello git!
+hello git!hot fixed test!
 hello git!hot fixed!
 recently change
